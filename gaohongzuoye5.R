@@ -1,3 +1,5 @@
+
+#It is just for text
 fai<-50
 beta<-0.99
 rho<-0.95
